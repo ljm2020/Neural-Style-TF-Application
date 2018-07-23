@@ -3,7 +3,7 @@ This notebook is a Google Colab fully functional application of Cysmith's "neura
 The model implements Neural Style Transfer in Tensorflow to create artistic images and videos. 
 The purpose of this notebook is to leverage Google's free GPU runtimes and Colab collaboration tools. It was created on July 22nd, 2018 by ljm2020
 
-you can download the notebook file (English or Chinese comments version) and upload to your google drive, or simply click below links:)
+you can click below links to get the latest notebook files and save them to your own drive folders:)
 
 EN: https://colab.research.google.com/drive/1wm4Sp_jqe0FTzjwpBrxxty967BUcuRhS
 
