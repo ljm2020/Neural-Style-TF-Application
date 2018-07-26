@@ -5,6 +5,8 @@ The purpose of this notebook is to leverage Google's free GPU runtimes and Colab
 
 you can click below links to get the latest notebook files and save them to your own drive folders:)
 
-EN: https://colab.research.google.com/drive/1wm4Sp_jqe0FTzjwpBrxxty967BUcuRhS
+Colab:
 
-CN: https://colab.research.google.com/drive/18w-b-ntmA8Y5u7JYLrwPqFAIefj4ZFH5
+Chinese and English Dual Language Version updated:
+
+https://colab.research.google.com/drive/18w-b-ntmA8Y5u7JYLrwPqFAIefj4ZFH5
